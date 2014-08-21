@@ -1,6 +1,6 @@
 { "name": "dt-parser"
 , "description": "Δt html parser - async & dynamic templating engine"
-, "version": "0.0.0"
+, "version": "0.0.1"
 , "homepage": "https://github.com/dodo/node-dt-parser"
 , "author": "dodo (https://github.com/dodo)"
 , "repository": {"type": "git", "url": "git://github.com/dodo/node-dt-parser.git"}
