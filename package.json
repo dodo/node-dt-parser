@@ -4,7 +4,7 @@
 , "homepage": "https://github.com/dodo/node-dt-parser"
 , "author": "dodo (https://github.com/dodo)"
 , "repository": {"type": "git", "url": "git://github.com/dodo/node-dt-parser.git"}
-, "main": "dt-stream.js"
+, "main": "dt-parser.js"
 , "engines": {"node": ">= 0.8.x"}
 , "keywords": ["dt", "async", "dynamic", "event", "template", "generation", "hmtl", "parser"]
 , "scripts": {
