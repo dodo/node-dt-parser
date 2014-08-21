@@ -12,7 +12,7 @@
 , "dependencies": {
     "htmlparser2": "3.x.x"}
 , "peerDependencies": {
-    "dynamictemplate": ">= 0.6.0"}
+    "dynamictemplate": ">= 0.7.0"}
 , "devDependencies": {
     "browserify": "1.6.1",
     "scopify": ">= 0.2.1",
